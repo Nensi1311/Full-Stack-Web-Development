@@ -13,3 +13,5 @@ This repository contains hands-on practicals demonstrating essential concepts of
 - Email Sending: Sending emails with Nodemailer.
 - Contact Form: Submitting a contact form and receiving submissions via email.
 - User Authentication: Signup and login system.
+### MongoDB Practicals:
+- CRUD Operations: Demonstrating create, read, update, and delete functionalities to manage data effectively.
